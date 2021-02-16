@@ -1,1 +1,2 @@
-# Arkanoid_c-_game
+# Arkanoid_c++
+Sfml input visual studio(NuGet)
